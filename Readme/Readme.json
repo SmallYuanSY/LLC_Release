@@ -7,8 +7,8 @@
       "startDate": "2023-03-20T00:00:00.000Z",
       "endDate": "2098-12-31T23:00:00.000Z",
       "sprNameList": [],
-      "title_KR": "Github/赞助",
-      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"Github\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany>LocalizeLimbusCompany</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"赞助\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://afdian.com/a/Limbus_zero>afdian[CNY]</link>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://opencollective.com/localizelimbuscompany>OpenCollective/LocalizeLimbusCompany[USD]</link>\"},{\"formatKey\":\"Text\",\"formatValue\":\"如果喜欢的话请点个Star或赞助一下吧\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"作者 Bright#1192\"},{\"formatKey\":\"Image\",\"formatValue\":\"Readme_ModAuthor\"}]}"
+      "title_KR": "Github/贊助",
+      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"Github\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://github.com/SmallYuanSY/LocalizeLimbusCompany>LocalizeLimbusCompany</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"讚助\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://afdian.com/a/Limbus_zero>afdian[CNY]</link>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://opencollective.com/localizelimbuscompany>OpenCollective/LocalizeLimbusCompany[USD]</link>\"},{\"formatKey\":\"Text\",\"formatValue\":\"如果喜歡的話請點個Star或讚助一下吧\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"作者 Bright#1192\"},{\"formatKey\":\"Image\",\"formatValue\":\"Readme_ModAuthor\"}]}"
     },
     {
       "id": 1190,
@@ -17,18 +17,18 @@
       "startDate": "2025-04-01T00:00:00.000Z",
       "endDate": "2025-04-02T00:00:00.000Z",
       "sprNameList": [],
-      "title_KR": "愚人节",
-      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"2025-零协致谢名单\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=Action_AprilFools_Show-Credit>Show Credit</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"过去活动\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=Action_AprilFools_Ten-Yi-Sang>Ten Yi Sang</link>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=Action_AprilFools_Pretend-Get-Lunacy>Pretend Get Lunacy</link>\"}]}"
+      "title_KR": "愚人節",
+      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"2025-零協致謝名單\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=Action_AprilFools_Show-Credit>Show Credit</link>\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"過去活動\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=Action_AprilFools_Ten-Yi-Sang>Ten Yi Sang</link>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=Action_AprilFools_Pretend-Get-Lunacy>Pretend Get Lunacy</link>\"}]}"
     },
     {
       "id": 1193,
       "version": 0,
       "type": 1,
-      "startDate": "2023-03-20T00:00:00.000Z",
-      "endDate": "2098-12-31T23:00:00.000Z",
+      "startDate": "2025-02-20T00:00:00.000Z",
+      "endDate": "2025-12-31T23:00:00.000Z",
       "sprNameList": [],
-      "title_KR": "反馈/上报问题/QQ频道",
-      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"上报问题请提供游戏目录下的 '游戏日志.log',不提供将大概率不受理\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=Action_Issues>LocalizeLimbusCompany/Issues</link>\"},{\"formatKey\":\"Text\",\"formatValue\":\"这些日志文件每次关闭游戏都会刷新，请确保正确且有效\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"QQ频道\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://pd.qq.com/s/fpzhrgdwo\"},{\"formatKey\":\"Image\",\"formatValue\":\"Readme_LLC-QQ-Discord\"}]}"
+      "title_KR": "反饋/上報問題/巴哈姆特",
+      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>上報問題提供遊戲目錄裡面的 '遊戲日志.log',不提供將大概率不協助</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://github.com/SmallYuanSY/LocalizeLimbusCompany_TW/issues>LocalizeLimbusCompany/Issues</link>\"},{\"formatKey\":\"Text\",\"formatValue\":\"這些日誌文件每次關閉遊戲都會刷新，請確保正確與有效喔\"},{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>巴哈姆特</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://forum.gamer.com.tw/C.php?bsn=73052&snA=297&tnum=10\"},{\"formatKey\":\"Image\",\"formatValue\":\"Readme_LocalizeLimbusCompany_Group\"}]}"
     },
     {
       "id": 1194,
@@ -37,8 +37,8 @@
       "startDate": "2023-03-20T00:00:00.000Z",
       "endDate": "2098-12-31T23:00:00.000Z",
       "sprNameList": [],
-      "title_KR": "汉化组\n中文WIKI\nLLC 官网",
-      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"都市零协会汉化组\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://space.bilibili.com/1247764479\"},{\"formatKey\":\"Text\",\"formatValue\":\"边狱公司中文WIKI\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://limbuscompany.huijiwiki.com\"},{\"formatKey\":\"Text\",\"formatValue\":\"LLC 官网\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://www.zeroasso.top\"}]}"
+      "title_KR": "漢化組\n中文WIKI\nLLC 官網",
+      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"都市零協會漢化組\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://space.bilibili.com/1247764479\"},{\"formatKey\":\"Text\",\"formatValue\":\"邊獄公司中文WIKI\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://limbuscompany.huijiwiki.com\"},{\"formatKey\":\"Text\",\"formatValue\":\"LLC 官網\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"https://www.zeroasso.top\"}]}"
     },
     {
       "id": 2902,
@@ -48,7 +48,7 @@
       "endDate": "2098-12-31T23:00:00.000Z",
       "sprNameList": [],
       "title_KR": "Date2025022101",
-      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v2025022101\\n- 优化了字体表现\\n- 翻译内容最新进度跟进\"}]}"
+      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v2025022101\\n- 優化了字體表現\\n- 翻譯內容最新進度跟進\"}]}"
     },
     {
       "id": 2901,
@@ -59,7 +59,7 @@
       "sprNameList": [
       ],
       "title_KR": "Date2025021101",
-      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v2025021101\\n- 翻译内容最新进度跟进\"}]}"
+      "content_KR": "{\"list\":[{\"formatKey\":\"Text\",\"formatValue\":\"# v2025021101\\n- 翻譯內容最新進度跟進\"}]}"
     }
   ]
 }
